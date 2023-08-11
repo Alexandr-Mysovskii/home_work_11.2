@@ -9,3 +9,5 @@ def title_word_second(string):
     """Возвращает все слова
     с заглавной буквой"""
     return string.title()
+
+
